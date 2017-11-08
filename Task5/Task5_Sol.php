@@ -21,9 +21,7 @@
 		<input type="text" name="txtName" />
 		<input type="submit" value="OK" name="btnOK" />		
 	</form>
-	
-    </tbody>
-	</table>
+
 
 </body>
 </html>

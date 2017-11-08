@@ -1,5 +1,5 @@
 <?php
-	//Objective: Sending Data Back to Server
+	//Objective: Adding two Numbers
 	
 	$sum = 0;
 	//Step 1: Check if Button is pressed to submit form	
@@ -25,9 +25,7 @@
 		<input type="submit" value="OK" name="btnAdd" /> <br>
 		Result:<input type="text" name="txtResult" value="<?php echo $sum ?>"/>
 	</form>
-	
-    </tbody>
-	</table>
+
 
 </body>
 </html>
