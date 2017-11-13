@@ -1,0 +1,7 @@
+In this task, we'll make 'http' hit using JavaScript, i.e. AJAX. We'll use jQuery to make this AJAX call. HTTP call will be made to a PHP page (not a page with HTML etc.). This page contains only PHP code which recieves our REQUEST, process it and sends response in JSON format.
+
+-----------------------
+1- Open 'Task16.php' file, complete its requirements.
+2- Open 'api.php', understand its working
+3- Now run 'Task16.php file, change country. You should see relevant cities in next drop down.
+4- Open chrome inspect tools, refresh the page again, click on button, go to Network tab and see 'api.php' hit there. Check right panel for request & response headers.
