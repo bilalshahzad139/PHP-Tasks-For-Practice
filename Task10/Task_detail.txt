@@ -1,0 +1,9 @@
+1- Open Task10.php file and complete the requirements
+2- Then open Task10.php in Chrome and refresh it multiple times
+3- Then also open Task10.php in Fiefox or IE and refresh it multiple times.
+
+-------------------------
+You will notice that each browser has its own SESSION memory on server.
+-------------------------
+
+Also inspect your page in chrome and go to Network, then refresh your page, you will see a call of your page, click on it and then see 'Headers' tab in right panel. Check in 'Request Headers' => Cookie section. You will see 'PHPSESSID' cookie. This contains your session id.
