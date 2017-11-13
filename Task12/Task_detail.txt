@@ -1,0 +1,15 @@
+1- Open Task12.php file and complete the requirements
+2- Then open Task12.php in Chrome and refresh it multiple times
+3- Then open Task12.php in Chrome (in different tab)
+3- Then also open Task12.php in Fiefox or IE and refresh it multiple times.
+
+-------------------------
+You will notice that each browser Manages its own localStorage. But in one browser, you may access localStorage in different tabs (of same application)
+-------------------------
+
+1- Also inspect your page in chrome 
+2- Go to Application Tab
+3- Go to "LocalStorage" in left panel and select "localhost" in it.
+4- In right panel, you will see all the Key/Value Pairs
+5- Check the value of "counter" there.
+
