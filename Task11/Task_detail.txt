@@ -1,0 +1,14 @@
+1- Open Task11.php file and complete the requirements
+2- Then open Task11.php in Chrome and refresh it multiple times
+3- Then also open Task11.php in Fiefox or IE and refresh it multiple times.
+
+-------------------------
+You will notice that each browser Manages its own cookies for a domain.
+-------------------------
+
+1- Also inspect your page in chrome 
+2- Go to Application Tab
+3- Go to "Cookies" in left panel and select "localhost" in it.
+4- In right panel, you will see all the cookies
+5- Check the value of "counter" cookie there.
+6- Also check its "Expiry date"
