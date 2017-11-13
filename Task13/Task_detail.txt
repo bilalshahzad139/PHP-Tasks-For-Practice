@@ -1,0 +1,15 @@
+1- Open Task13.php file and complete the requirements
+2- Then open Task13.php in Chrome and refresh it multiple times
+3- Then open Task13.php in Chrome (in different tab)
+3- Then also open Task13.php in Fiefox or IE and refresh it multiple times.
+
+-------------------------
+You will notice that each browser Manages its own sessionStorage. And in a browser, each tab mantains its own sessionStorage.
+-------------------------
+
+1- Also inspect your page in chrome 
+2- Go to Application Tab
+3- Go to "Session Storage" in left panel and select "localhost" in it.
+4- In right panel, you will see all the Key/Value Pairs
+5- Check the value of "counter" there.
+
