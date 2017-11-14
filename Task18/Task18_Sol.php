@@ -26,4 +26,5 @@
 				//Step-5: Display values
 				echo "ID: $id, Name:$name";
 			}
-		}	
+		}
+?>		
