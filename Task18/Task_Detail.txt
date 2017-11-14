@@ -1,0 +1,10 @@
+1- Open conn.php file and understand it. It is regarding connection establishment (done in Task17).
+
+2- Create a new table 'country' with columns (id,name) in 'test' database
+
+3- Insert couple of records in table
+
+4- Now open Task18_Sol.php and understand it. It is using conn.php.
+
+5- Now run Task18_Sol.php and see if it is displaying results as expected.
+
