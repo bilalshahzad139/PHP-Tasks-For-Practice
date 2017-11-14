@@ -1,0 +1,4 @@
+1- Open http:\\localhost & then phpmyadmin from top left corner
+2- create a new database 'test' in it
+3- Open Task17_Sol.php file and make changes if required.
+4- Run Task17_Sol.php file and see if connection is getting successfully establshed or error is occuring.
