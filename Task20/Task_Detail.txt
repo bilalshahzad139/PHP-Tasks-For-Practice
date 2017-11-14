@@ -1,0 +1,15 @@
+1- Open conn.php and understand it.
+2- Open utility.php and understand it.
+-----------------------
+
+3- Create a table 'city' in 'test' database
+4- columns wil be id,name,countryid. id should have auto increment enabled.
+
+---------------
+
+5- Now open Task20_Sol.php and understand what is happening with 'GetCountries'
+6- Then explore how we are saving data in 'city' table when 'btnSave' is clicked.
+
+
+
+
